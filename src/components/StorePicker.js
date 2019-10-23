@@ -1,4 +1,4 @@
-import React, { Component, Fragment } from 'react';
+import React, { Component } from 'react';
 
 class StorePicker extends Component {
   render() {
@@ -13,4 +13,3 @@ class StorePicker extends Component {
 }
 
 export default StorePicker;
-
